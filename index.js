@@ -5,4 +5,3 @@ var kittens = ["Milo", "Otis", "Garfield"]
 kittens.push("Ralph");
   // or ES6 way
   // var newArray = [...kittens];
-
